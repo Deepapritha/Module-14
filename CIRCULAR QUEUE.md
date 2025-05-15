@@ -23,7 +23,7 @@ To write a Python program with a function to insert float values into a Circular
 ---
 
 ### PROGRAM
-NAME: DEEPAPRITH A
+NAME: DEEPAPRITHA A
 REG NO: 212223090002
 
 ```
